@@ -1,3 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LurkErLV&show_icons=true&theme=cobalt2)
+![GitHub stats](https://stats.matrozis.dev/api?username=LurkErLV&count_private=true&theme=dracula&showIcons=true)
 <br />
 ![CodeWars](https://www.codewars.com/users/LurkErLV/badges/large)
