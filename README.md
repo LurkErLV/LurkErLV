@@ -1,5 +1,3 @@
-<3
-<br />
 ![GitHub stats](https://stats.matrozis.dev/api?username=LurkErLV&count_private=true&theme=dracula&show_icons=true&custom_title=Alberts%20Matrozis)
 ![Github stats](https://stats.matrozis.dev/api/top-langs?username=LurkErLV&theme=dracula)
 <br />
