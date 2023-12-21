@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Frontend from Latvia<br><br>- 🔭 I’m working on portfolio<br>- 📚 I'm currently learning PHP and Nest.js<br>- ⚡ In my free time I'm eating and sleeping</p>
+<p align="left">I'm Frontend from Latvia<br><br>- 🔭 I’m working on Job listing website<br>- 📚 I'm currently learning PHP and Nest.js<br>- ⚡ In my free time I'm eating and sleeping</p>
 
 ###
 
