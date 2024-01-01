@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.imgur.com/ahv7sBb.png"  />
-</div>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Albert Matrozis&txt=Frontend%20Developer"></p>
 
 ###
 
