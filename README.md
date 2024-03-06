@@ -112,6 +112,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LurkErLV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://api.daily.dev/devcards/v2/elDgqs6dZKkNz1GFMwt0T.png?type=default&r=qp8" width="356" alt="Alberts Matrozis's Dev Card"/>
 </div>
 
 ###
