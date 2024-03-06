@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Frontend Developer from Latvia<br><br>- 🔭 I’m working on Visual Novelle sharing website<br>- 📚 I'm currently learning Java, Spring boot and Next.js<br>- ⚡ In my free time I'm learning Java, eating, sleeping and again learning Java</p>
+<p align="left">Open for work<br><br>I'm Frontend Developer from Latvia<br><br>- 🔭 I’m working on Visual Novelle sharing website<br>- 📚 I'm currently learning Java, Spring boot and Next.js<br>- ⚡ In my free time I'm learning Java, eating, sleeping and again learning Java</p>
 
 ###
 
