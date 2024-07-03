@@ -26,14 +26,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Open for work<br><br>I'm Fullstack Developer from Latvia<br><br>- 🔭 I’m working on Visual Novelle sharing website<br>- 📚 I'm currently learning Java, Spring boot and Nest.js<br>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
